@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.32011225.chunk.css",
-    "main.js": "/static/js/main.6c6065d6.chunk.js",
-    "main.js.map": "/static/js/main.6c6065d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.05998acb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.05998acb.js.map",
-    "static/js/2.ff31daf7.chunk.js": "/static/js/2.ff31daf7.chunk.js",
-    "static/js/2.ff31daf7.chunk.js.map": "/static/js/2.ff31daf7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.32011225.chunk.css.map": "/static/css/main.32011225.chunk.css.map",
-    "static/js/2.ff31daf7.chunk.js.LICENSE.txt": "/static/js/2.ff31daf7.chunk.js.LICENSE.txt"
+    "main.css": "/udemy-react-redux-practice/static/css/main.32011225.chunk.css",
+    "main.js": "/udemy-react-redux-practice/static/js/main.8d8fbeeb.chunk.js",
+    "main.js.map": "/udemy-react-redux-practice/static/js/main.8d8fbeeb.chunk.js.map",
+    "runtime-main.js": "/udemy-react-redux-practice/static/js/runtime-main.cb5a5202.js",
+    "runtime-main.js.map": "/udemy-react-redux-practice/static/js/runtime-main.cb5a5202.js.map",
+    "static/js/2.6b8fad16.chunk.js": "/udemy-react-redux-practice/static/js/2.6b8fad16.chunk.js",
+    "static/js/2.6b8fad16.chunk.js.map": "/udemy-react-redux-practice/static/js/2.6b8fad16.chunk.js.map",
+    "index.html": "/udemy-react-redux-practice/index.html",
+    "static/css/main.32011225.chunk.css.map": "/udemy-react-redux-practice/static/css/main.32011225.chunk.css.map",
+    "static/js/2.6b8fad16.chunk.js.LICENSE.txt": "/udemy-react-redux-practice/static/js/2.6b8fad16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05998acb.js",
-    "static/js/2.ff31daf7.chunk.js",
+    "static/js/runtime-main.cb5a5202.js",
+    "static/js/2.6b8fad16.chunk.js",
     "static/css/main.32011225.chunk.css",
-    "static/js/main.6c6065d6.chunk.js"
+    "static/js/main.8d8fbeeb.chunk.js"
   ]
 }
